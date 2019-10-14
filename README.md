@@ -6,19 +6,19 @@ download individual files or the whole set.
 
 # Contents
 
-2006: Pendulum motion
-2007: Tides
-2008: Forced pendulum
-2009: Color and vision (short)
-2010: Why doesn't the Moon fall out of the sky?
-2011: a = v^2/r
-2012: Achromatic refracting optics
-2013: Base n
-2014: Gravity in space
-2015: Gyroscopic motion
-2016: Hooke's law
-2017: Generalized binomial theorem
-2018: Continuous Wave Radar
+* 2006: Pendulum motion
+* 2007: Tides
+* 2008: Forced pendulum
+* 2009: Color and vision (short)
+* 2010: Why doesn't the Moon fall out of the sky?
+* 2011: a = v^2/r
+* 2012: Achromatic refracting optics
+* 2013: Base n
+* 2014: Gravity in space
+* 2015: Gyroscopic motion
+* 2016: Hooke's law
+* 2017: Generalized binomial theorem
+* 2018: Continuous Wave Radar
 
 # Bounties
 
