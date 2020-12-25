@@ -20,6 +20,7 @@ download individual files or the whole set.
 * 2017: Generalized binomial theorem
 * 2018: Continuous Wave Radar
 * 2019: Surface waves
+* 2020: Eigenvalues & Eigenvectors
 
 # Bounties
 
