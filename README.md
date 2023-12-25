@@ -22,6 +22,8 @@ download individual files or the whole set.
 * 2019: Surface waves
 * 2020: Eigenvalues & Eigenvectors
 * 2021: Coriolis: Oceanography and Lagrange points
+* 2022: -
+* 2023: Bernoulli
 
 # Bounties
 
