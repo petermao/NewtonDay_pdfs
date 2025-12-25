@@ -24,6 +24,8 @@ download individual files or the whole set.
 * 2021: Coriolis: Oceanography and Lagrange points
 * 2022: -
 * 2023: Bernoulli
+* 2024: -
+* 2025: Classical physics in the 1957 neutrino helicity experiment
 
 # Bounties
 
@@ -35,9 +37,9 @@ previous year.
 # What is this?
 
 Every year, since my first kid was born, I've written up a short paper
-in honor of Sir Isaac Newton, on the anniversary of his birthday, 
+in honor of Sir Isaac Newton, on the anniversary of his birthday,
 December 25.  I always try to incorporate some activity to do with them
-related to the topic of the year.  The technical parts of the papers 
+related to the topic of the year.  The technical parts of the papers
 are generally written for them when they reach high school or college,
 although I do try to include something they can follow.  This, of course,
 is easier to do as they learn more mathematics.
